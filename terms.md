@@ -4,7 +4,7 @@ title: Terms of Use – LeafKeep
 
 # Terms of Use – LeafKeep
 
-[Privacy Policy](index.md) · [Impressum / Legal Notice](impressum.md)
+[Privacy Policy](index.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](nutzungsbedingungen.md)
 
 Last updated: August 31, 2026
 

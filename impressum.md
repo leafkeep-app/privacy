@@ -4,7 +4,7 @@ title: Impressum – LeafKeep
 
 # Impressum
 
-[Privacy Policy](index.md) · [Terms of Use](terms.md)
+[Privacy Policy](index.md) · [Terms of Use](terms.md) · [Datenschutzerklärung](datenschutz.md) · [Nutzungsbedingungen](nutzungsbedingungen.md)
 
 Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz) für die Android-App
 **LeafKeep** und diese Website.

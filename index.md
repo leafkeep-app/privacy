@@ -4,7 +4,7 @@ title: Privacy Policy – LeafKeep
 
 # Privacy Policy – LeafKeep
 
-[Terms of Use](terms.md) · [Impressum / Legal Notice](impressum.md)
+[Terms of Use](terms.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](datenschutz.md)
 
 Last updated: August 31, 2026
 

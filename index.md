@@ -6,7 +6,7 @@ title: Privacy Policy – LeafKeep
 
 [Terms of Use](terms.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](datenschutz.md)
 
-Last updated: August 31, 2026
+Last updated: September 1, 2026
 
 This privacy policy applies to the Android app **LeafKeep**
 (package ID: `com.leafkeep.plants`).

@@ -6,7 +6,7 @@ title: Datenschutzerklärung – LeafKeep
 
 [Nutzungsbedingungen](nutzungsbedingungen.md) · [Impressum](impressum.md) · [English](index.md)
 
-Stand: 31. August 2026
+Stand: 1. September 2026
 
 Diese Datenschutzerklärung gilt für die Android-App **LeafKeep**
 (Paket-ID: `com.leafkeep.plants`).
@@ -25,7 +25,7 @@ E-Mail: FsNaviVfr@gmail.com
 LeafKeep ist eine Gieß-Erinnerung für Pflanzen. Die von Ihnen eingegebenen Daten
 (Name, Kosten, Währung, Gießintervall, nächster Gießtermin, Standort, Kategorie und die Angabe, ob die Pflanze für Haustiere giftig ist) werden in einer lokalen
 Datenbank auf Ihrem Gerät gespeichert. Es gibt kein Nutzerkonto, keine
-Registrierung und keinen eigenen Server. Die App überträgt Ihrer Pflanzendaten
+Registrierung und keinen eigenen Server. Die App überträgt Ihre Pflanzendaten
 weder an den Anbieter noch an Dritte.
 
 Einzelne Funktionen binden allerdings Dienste Dritter ein: Google Play
@@ -134,7 +134,7 @@ vorliegen, können Ihnen außerdem das Recht auf Datenübertragbarkeit
 (Art. 20 DSGVO) und das Recht auf Widerspruch gegen eine Verarbeitung
 auf Grundlage berechtigter Interessen (Art. 21 DSGVO) zustehen.
 
-Da der Anbieter Ihrer Pflanzendaten weder speichert noch übermittelt,
+Da der Anbieter Ihre Pflanzendaten weder speichert noch übermittelt,
 liegen die meisten dieser Rechte praktisch bereits in Ihrer Hand: Sie
 können Ihre Daten jederzeit unmittelbar in der App einsehen, ändern oder
 löschen. Das ist rechtlich allerdings nicht dasselbe wie die förmliche

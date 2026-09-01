@@ -25,6 +25,10 @@ Email: FsNaviVfr@gmail.com
 LeafKeep is a plant watering reminder app. The plant data you enter
 (plant name, cost, currency, watering interval, next watering date,
 location, category, light needs, humidity, pot size, notes, and whether
+If you pick one of the symbols that ship with the app for an entry, that choice
+is stored there as well. The symbols are part of the app; no image is uploaded
+and none is fetched from the internet.
+
 it is toxic to pets) is stored in a local database on your device. There is no user account, no registration,
 and no server/backend of our own. The app itself never transmits your
 plant data to the developer or any third party.
@@ -50,6 +54,10 @@ size, notes, and a toxic-to-pets flag for each plant you add are stored in
 the app's local database on your device. This data is used to display your
 plants and to schedule local reminder notifications before a plant needs
 watering. It is never uploaded to a server operated by the developer.
+
+If you pick one of the symbols that ship with the app for an entry, that choice
+is stored there as well. The symbols are part of the app; no image is uploaded
+and none is fetched from the internet.
 
 When you record a care action, the app additionally stores an entry in the
 history: the date, the type of care (watering, fertilising, repotting,

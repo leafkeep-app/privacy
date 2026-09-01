@@ -23,7 +23,9 @@ E-Mail: FsNaviVfr@gmail.com
 ## 2. Überblick
 
 LeafKeep ist eine Gieß-Erinnerung für Pflanzen. Die von Ihnen eingegebenen Daten
-(Name, Kosten, Währung, Gießintervall, nächster Gießtermin, Standort, Kategorie und die Angabe, ob die Pflanze für Haustiere giftig ist) werden in einer lokalen
+(Name, Kosten, Währung, Gießintervall, nächster Gießtermin, Standort,
+Kategorie, Lichtbedarf, Luftfeuchtigkeit, Topfgröße, Notizen und die
+Angabe, ob die Pflanze für Haustiere giftig ist) werden in einer lokalen
 Datenbank auf Ihrem Gerät gespeichert. Es gibt kein Nutzerkonto, keine
 Registrierung und keinen eigenen Server. Die App überträgt Ihre Pflanzendaten
 weder an den Anbieter noch an Dritte.
@@ -43,11 +45,23 @@ hat auf solche Sicherungen keinen Zugriff (siehe Abschnitt 5).
 
 ### 3.1 Von Ihnen eingegebene Daten
 
-Name, Kosten, Währung, Gießintervall, nächster Gießtermin, Standort, Kategorie und die Angabe, ob die Pflanze für Haustiere giftig ist für jeden Eintrag, den Sie anlegen, werden in der
-lokalen Datenbank der App auf Ihrem Gerät gespeichert. Sie dienen dazu,
-Ihre Einträge anzuzeigen und lokale Erinnerungen zu planen, bevor
-eine Pflanze gegossen werden muss. Diese Daten werden nicht auf einen
+Name, Kosten, Währung, Gießintervall, nächster Gießtermin, Standort,
+Kategorie, Lichtbedarf, Luftfeuchtigkeit, Topfgröße, Notizen und die Angabe,
+ob die Pflanze für Haustiere giftig ist werden für jeden Eintrag, den Sie
+anlegen, in der lokalen Datenbank der App auf Ihrem Gerät gespeichert. Sie
+dienen dazu, Ihre Einträge anzuzeigen und lokale Erinnerungen zu planen,
+bevor eine Pflanze gegossen werden muss. Diese Daten werden nicht auf einen
 Server des Anbieters hochgeladen.
+
+Halten Sie einen Pflegevorgang fest, legt die App zusätzlich einen Eintrag im
+Verlauf an: Datum, Pflegeart (Gießen, Düngen, Umtopfen, Besprühen oder
+Rückschnitt), den Namen der betroffenen Pflanze und, sofern Sie welche
+eingeben, Notizen. Auch diese Einträge bleiben ausschließlich auf Ihrem
+Gerät.
+
+Die Felder „Standort" und „Notizen" sind Freitextfelder, die Sie selbst
+befüllen. Was Sie dort eintragen, bestimmen allein Sie; das Feld „Standort"
+hat keine Verbindung zu GPS oder den Ortungsdiensten Ihres Geräts.
 
 ### 3.2 Google Play Billing
 

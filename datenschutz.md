@@ -26,10 +26,6 @@ LeafKeep ist eine Gieß-Erinnerung für Pflanzen. Die von Ihnen eingegebenen Dat
 (Name, Kosten, Währung, Gießintervall, nächster Gießtermin, Standort,
 Kategorie, Lichtbedarf, Luftfeuchtigkeit, Topfgröße, Notizen und die
 Angabe, ob die Pflanze für Haustiere giftig ist) werden in einer lokalen
-Wählen Sie für einen Eintrag eines der mitgelieferten Symbole, wird auch diese
-Auswahl dort gespeichert. Die Symbole sind Teil der App; es wird kein Bild
-hochgeladen und keines aus dem Netz geladen.
-
 Datenbank auf Ihrem Gerät gespeichert. Es gibt kein Nutzerkonto, keine
 Registrierung und keinen eigenen Server. Die App überträgt Ihre Pflanzendaten
 weder an den Anbieter noch an Dritte.

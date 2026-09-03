@@ -11,9 +11,9 @@ Last updated: September 1, 2026
 These Terms of Use apply to the Android app **LeafKeep** (package ID:
 `com.leafkeep.plants`), provided by:
 
-Robert Peringer
-Ittlinger Hauptstraße 17
-94315 Straubing
+Robert Peringer  
+Ittlinger Hauptstraße 17  
+94315 Straubing  
 Germany
 
 Email: FsNaviVfr@gmail.com

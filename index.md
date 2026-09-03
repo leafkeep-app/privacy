@@ -13,9 +13,9 @@ This privacy policy applies to the Android app **LeafKeep**
 
 ## 1. Data Controller
 
-Robert Peringer
-Ittlinger Hauptstraße 17
-94315 Straubing
+Robert Peringer  
+Ittlinger Hauptstraße 17  
+94315 Straubing  
 Germany
 
 Email: FsNaviVfr@gmail.com
